@@ -1,4 +1,4 @@
-
+Live,#genre#
 Live Cams,http://live.adultiptv.net/livecams.m3u8
 MILF,http://live.adultiptv.net/milf.m3u8
 Big Dick,http://live.adultiptv.net/bigdick.m3u8
@@ -24,6 +24,8 @@ Brunette,http://live.adultiptv.net/brunette.m3u8
 Blonde,http://live.adultiptv.net/blonde.m3u8
 Gay,http://live.adultiptv.net/gay.m3u8
 Asian,http://live.adultiptv.net/asian.m3u8
+
+Japanese,#genre#
 成人视频高中生上門援交/TZ-083,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/y9/59/a0/bs/a62b1101041b48be89ee2582ef60a323.m3u8?
 萬聖節緊急企劃/成人视频金蓮領我回家/TZ-030,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/ag/qi/ij/l2/079eca9b44664d84be021c4998bc0400.m3u8?
 成人视频街頭搭訕女大學生拍攝AV/TZ-001,https://fufxtyc.bytebwq.com/api/app/media/m3u8/media/upload-video/a54/a544cf32e99035a296fb8ca5a2922cd6/m3u8/index.m3u8?
