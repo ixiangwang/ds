@@ -941,7 +941,6 @@ CGTN PYCCKNN,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226282/in
 中国天气,rtsp://115.153.245.70/PLTV/88888888/224/3221227056/89471929.smil
 
 卫视IPV6,#genre#
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
 湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖南卫视,https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/3777bfb47d-0-0-654e705fbb80feea4c6f5105072a6d33/index.m3u8
