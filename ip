@@ -1,5 +1,4 @@
 央视IPV6,#genre#
-CCTV1综合,http://mdxgh.tpddns.cn:88/mdxgh/cctv1
 CCTV1综合,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y
 CCTV1综合,http://106.46.36.33:808/hls/1/index.m3u8
 CCTV1综合,http://114.240.110.72:4022/rtp/239.3.1.129:8008
@@ -193,7 +192,6 @@ CCTV3综艺,http://tvmvip110.club/as.php?id=cctv3hd
 CCTV3综艺,http://124.232.233.6:6060/000000001901/202200010007/index.m3u8?m3u8_level=2
 CCTV3综艺,http://183.196.25.171:808/hls/75/index.m3u8
 CCTV3综艺,rtsp://115.153.245.70/PLTV/88888888/224/3221226841/63329606.smil
-CCTV4中文国际,http://mdxgh.tpddns.cn:88/mdxgh/cctv4
 CCTV4中文国际,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000037BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfH0ZQXwaiVktPr6ILPKXqwOUC2ZXft7ZULN6h9qLQPFOTSlVTfophiKaMb8h1kPV74
 CCTV4中文国际,http://110.72.64.163:8181/tsfile/live/0004_1.m3u8
 CCTV4中文国际,http://222.89.16.225:808/hls/4/index.m3u8
@@ -240,7 +238,6 @@ CCTV4中文国际,http://tvmvip110.club/as.php?id=cctv4hd
 CCTV4中文国际,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000204803.m3u8
 CCTV4中文国际,http://124.232.233.6:6060/000000001901/202200010009/index.m3u8?m3u8_level=2
 CCTV4中文国际,http://183.196.25.171:808/hls/4/index.m3u8
-CCTV5体育,http://mdxgh.tpddns.cn:88/mdxgh/cctv5
 CCTV5体育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMSXw4ajlL%2FoUYC2RZQQDco6uQSifXBocz5ID6RePfIKQ4rFWiHjq%2FeZoDmrzW%2FKlw
 CCTV5体育,http://106.46.36.33:808/hls/18/index.m3u8
 CCTV5体育,http://222.89.16.225:808/hls/18/index.m3u8
@@ -369,7 +366,6 @@ CCTV5+体育赛事,rtsp://115.153.233.154/PLTV/88888888/224/3221226976/85722488.
 CCTV5+体育赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5+体育赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
 CCTV5+体育赛事,http://183.196.25.171:808/hls/61/index.m3u8
-CCTV6电影,http://mdxgh.tpddns.cn:88/mdxgh/cctv6
 CCTV6电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728804b1f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdazJhFQmuq4XUiks9ZrIlJN%2BknLs8H%2BSxcDXy%2BTesEc8Q0KCN89MjYoj85Sol1kbKI4
 CCTV6电影,http://106.46.36.33:808/hls/6/index.m3u8
 CCTV6电影,http://222.89.16.225:808/hls/6/index.m3u8
@@ -425,7 +421,6 @@ CCTV6电影,http://tvmvip110.club/as.php?id=cctv6hd
 CCTV6电影,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000203303.m3u8
 CCTV6电影,http://183.196.25.171:808/hls/76/index.m3u8
 CCTV6电影,rtsp://115.153.245.70/PLTV/88888888/224/3221226843/63329570.smil
-CCTV7国防军事,http://mdxgh.tpddns.cn:88/mdxgh/cctv7
 CCTV7国防军事,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000038BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfHYKFve4MwNzRa0jPXeHjqnBjPmzSdKDNWNHhnZSaMGCXKmdx8d%2BnYdhVK5ge22ot4
 CCTV7国防军事,http://106.46.36.33:808/hls/7/index.m3u8
 CCTV7国防军事,http://222.89.16.225:808/hls/7/index.m3u8
@@ -468,7 +463,6 @@ CCTV7国防军事,http://117.148.179.160/PLTV/88888888/224/3221231633/index.m3u8
 CCTV7国防军事,rtsp://115.153.212.72/PLTV/88888888/224/3221226827/59814693.smil
 CCTV7国防军事,http://tvmvip110.club/as.php?id=cctv7hd
 CCTV7国防军事,http://183.196.25.171:808/hls/7/index.m3u8
-CCTV8电视剧,http://mdxgh.tpddns.cn:88/mdxgh/cctv8
 CCTV8电视剧,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728970aa82/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaymid9ta2tVUW0%2FdVrFqszC1EVEkAbpip1IYxn%2Ba2aA%2BVAihIiw9D8ejUsDbfU0K68
 CCTV8电视剧,http://106.46.36.33:808/hls/8/index.m3u8
 CCTV8电视剧,http://222.89.16.225:808/hls/8/index.m3u8
@@ -521,7 +515,6 @@ CCTV8电视剧,http://tvmvip110.club/as.php?id=cctv8hd
 CCTV8电视剧,http://124.232.233.6:6060/000000001901/202200010017/index.m3u8?m3u8_level=2
 CCTV8电视剧,http://183.196.25.171:808/hls/77/index.m3u8
 CCTV8电视剧,rtsp://115.153.245.70/PLTV/88888888/224/3221226854/63329578.smil
-CCTV9纪录,http://mdxgh.tpddns.cn:88/mdxgh/cctv9
 CCTV9纪录,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000039BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfHArfvJF2pWpm4RxcBNhZ7j9vEUeCQte%2BbQaOGNIUEEK%2B3RBE1BC9EUsM18gnb%2FyAA
 CCTV9纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV9纪录,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227614/index.m3u8
@@ -565,7 +558,6 @@ CCTV9纪录,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/202003
 CCTV9纪录,http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
 CCTV9纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
 CCTV9纪录,http://live.cooltv.top/tv/aishang.php?id=cctv9hd
-CCTV10科教,http://mdxgh.tpddns.cn:88/mdxgh/cctv10
 CCTV10科教,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949784BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXt3TPFwzzdHCkOT9AjSv5OuXozn3alq9%2BUx7ZLG1w9aOfkLjZvYj56D3xkOAtSOIoLsdw8c1%2BCwLDg1aS4esN4
 CCTV10科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV10科教,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225677/index.m3u8
@@ -603,7 +595,6 @@ CCTV10科教,rtsp://115.153.212.72/PLTV/88888888/224/3221226630/51813372.smil
 CCTV10科教,http://tvmvip110.club/as.php?id=cctv10hd
 CCTV10科教,http://124.232.233.6:6060/000000001901/202200010020/index.m3u8?m3u8_level=2
 CCTV10科教,http://183.196.25.171:808/hls/10/index.m3u8
-CCTV11戏曲,http://mdxgh.tpddns.cn:88/mdxgh/cctv11
 CCTV11戏曲,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Qj2xHA4vdPGsjBbxSL3p%2FmAObVTfznR%2Fpc%2B76QYmLRMuL3Lj9iabhv8arW7kJe6%2F4
 CCTV11戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
 CCTV11戏曲,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225517/index.m3u8
@@ -633,7 +624,6 @@ CCTV11戏曲,rtsp://115.153.212.72/PLTV/88888888/224/3221225529/iptv7955.smil
 CCTV11戏曲,http://tvmvip110.club/as.php?id=cctv11hd
 CCTV11戏曲,http://124.232.233.6:6060/000000001901/202200010021/index.m3u8?m3u8_level=2
 CCTV11戏曲,http://183.196.25.171:808/hls/11/index.m3u8
-CCTV12社会与法,http://mdxgh.tpddns.cn:88/mdxgh/cctv12
 CCTV12社会与法,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000040BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QMAmpLefguRLiOPXiDRWhxHg8yim2giTBA8RILsb%2B8Y5pkFUyZBE%2FkNJAbwncEegkU
 CCTV12社会与法,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 CCTV12社会与法,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225669/index.m3u8
@@ -668,7 +658,6 @@ CCTV12社会与法,rtsp://115.153.212.72/PLTV/88888888/224/3221226829/59814709.s
 CCTV12社会与法,http://tvmvip110.club/as.php?id=cctv12hd
 CCTV12社会与法,http://124.232.233.6:6060/000000001901/202200010022/index.m3u8?m3u8_level=2
 CCTV12社会与法,http://183.196.25.171:808/hls/12/index.m3u8
-CCTV13新闻,http://mdxgh.tpddns.cn:88/mdxgh/cctv13
 CCTV13新闻,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000054BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0SuXozn3alq9%2BUx7ZLG1w9awc14iEUxQ5VsTsr5pEBsmF56tXUfsukRUpygmTCKvAI
 CCTV13新闻,http://222.89.16.225:808/hls/13/index.m3u8
 CCTV13新闻,http://114.240.110.72:4022/rtp/239.3.1.124:8128
@@ -727,7 +716,6 @@ CCTV13新闻,http://183.196.25.171:808/hls/13/index.m3u8
 CCTV13新闻,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
 CCTV13新闻,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13新闻,http://play20.yitoutiao.net/snzx-dev/0725cctv13.m3u8?auth_key=1690250397-0-0-769a2a772770818265f1794856347248
-CCTV14少儿,http://mdxgh.tpddns.cn:88/mdxgh/cctv14
 CCTV14少儿,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949788BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXt3TPFwzzdHCkOT9AjSv5PYKFve4MwNzRa0jPXeHjqnp7khdLaCMP6L4QpTf84Oz6DvCG1%2BJ81QvStkxO%2FoGm8
 CCTV14少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV14少儿,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225674/index.m3u8
@@ -761,7 +749,6 @@ CCTV14少儿,http://117.148.179.182/PLTV/88888888/224/3221231648/index.m3u8
 CCTV14少儿,http://tvmvip110.club/as.php?id=cctv14hd
 CCTV14少儿,http://124.232.233.6:6060/000000001901/202200010024/index.m3u8?m3u8_level=2
 CCTV14少儿,http://183.196.25.171:808/hls/14/index.m3u8
-CCTV15音乐,http://mdxgh.tpddns.cn:88/mdxgh/cctv15
 CCTV15音乐,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000055BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Tdo%2FUL80msfbhDYvoWpNl31Dy7jHvMl%2FzVUrNxhL1ek1YEGVDZ7lCg0LtKJY4Ku%2B8
 CCTV15音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV15音乐,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225513/index.m3u8
@@ -792,7 +779,6 @@ CCTV15音乐,http://tvmvip110.club/as.php?id=cctv15hd
 CCTV15音乐,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000205003.m3u8
 CCTV15音乐,http://124.232.233.6:6060/000000001901/202200010025/index.m3u8?m3u8_level=2
 CCTV15音乐,http://183.196.25.171:808/hls/15/index.m3u8
-CCTV16奥林匹克,http://mdxgh.tpddns.cn:88/mdxgh/cctv16
 CCTV16奥林匹克,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV16奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV16奥林匹克,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
@@ -831,7 +817,6 @@ CCTV16奥林匹克,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001
 CCTV16奥林匹克,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
 CCTV16奥林匹克,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 CCTV16奥林匹克,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
-CCTV17农业农村,http://mdxgh.tpddns.cn:88/mdxgh/cctv17
 CCTV17农业农村,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaz%2FyAI9to%2FMBBt%2FivcdSfljJ1%2FqqamWUjAiBAxNssfyBlZUDSXAIMtStS86hRHFuJM
 CCTV17农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 CCTV17农业农村,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227592/index.m3u8
