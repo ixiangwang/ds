@@ -22,5 +22,5 @@ fongmi接口$http://yingshi.fongmi.eu.org
 小雅接口$http://drpy.site/js1
 霜辉明月接口$https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 高天流云接口$https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
-catvod接口$https://tvbox.catvod.com/catvod.json
 毒盒接口$https://毒盒.com/tv
+
