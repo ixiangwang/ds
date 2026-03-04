@@ -1,10 +1,10 @@
 ﻿#多接口自用
-肥猫$http://www.饭太硬.com/tv
-肥猫备用1$http://feimao.pro
-肥猫备用2$http://hello.肥猫.com
-饭太硬$http://www.饭太硬.com/tv
-饭太硬备用1$http://www.饭太硬.net/tv
-饭太硬备用2$https://gitee.com/xxoooo/fan/raw/master/in.bmp
+http://www.饭太硬.com/tv
+http://feimao.pro
+http://hello.肥猫.com
+http://www.饭太硬.com/tv
+http://www.饭太硬.net/tv
+https://gitee.com/xxoooo/fan/raw/master/in.bmp
 catvod$https://tvbox.catvod.com/catvod.json
 小米$https://mpanso.me/DEMO.json
 王小二$http://tvbox.xn--4kq62z5rby2qupq9ub.top/
@@ -24,5 +24,6 @@ fongmi接口$http://yingshi.fongmi.eu.org
 霜辉明月接口$https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 高天流云接口$https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
 毒盒接口$https://毒盒.com/tv
+
 
 
