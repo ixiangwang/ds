@@ -4,6 +4,10 @@
       "name": "🐱 猫影视 (CatVod)",
       "url": "https://tvbox.catvod.com/catvod.json"
     },
+    {
+      "name": "肥猫pro",
+      "url": "http://feimao.pro"
+    },
  {
       "name": "肥猫",
       "url": "http://肥猫.com"
@@ -28,6 +32,19 @@
       "name": "饭太硬备用2",
       "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp"
     },
+ {
+      "name": "PG",
+      "url": "https://tvbox.catvod.com/jsm.json"
+    },
+{
+      "name": "真心",
+      "url": "https://tvbox.catvod.com/FongMi.json"
+    },
+{
+      "name": "潇洒",
+      "url": "https://tvbox.catvod.com/xs/api.json"
+    },
+   
   {
       "name": "小米",
       "url": "https://mpanso.me/DEMO.json"
